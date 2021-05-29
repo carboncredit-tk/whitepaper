@@ -1,4 +1,4 @@
-# whitepaper
+# Whitepaper Carbon Credit Token (Draft)
 
 # The Solidity Contract-Oriented Programming Language
 
